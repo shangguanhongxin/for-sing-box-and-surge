@@ -1,0 +1,11 @@
+# (HKMTMedia)
+# > 愛奇藝台灣站
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,71.am
+# > bilibili
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,hdslb.com
