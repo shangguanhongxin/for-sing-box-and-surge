@@ -444,7 +444,6 @@ DOMAIN,itunes.apple.com,proxy
 DOMAIN,api-glb-sea.smoot.apple.com,proxy
 # >> Dictionary,proxy
 DOMAIN,lookup-api.apple.com,proxy
-PROCESS-NAME,LookupViewService,proxy
 # > Google,proxy
 DOMAIN-SUFFIX,abc.xyz,proxy
 DOMAIN-SUFFIX,android.com,proxy
