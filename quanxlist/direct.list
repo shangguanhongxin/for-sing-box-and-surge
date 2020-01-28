@@ -4,10 +4,6 @@ IP-CIDR,10.0.0.0/8,direct
 IP-CIDR,172.16.0.0/12,direct
 IP-CIDR,127.0.0.0/8,direct
 IP-CIDR,100.64.0.0/10,direct
-IP-CIDR6,::1/128,direct
-IP-CIDR6,fc00::/7,direct
-IP-CIDR6,fe80::/10,direct
-IP-CIDR6,fd00::/8,direct
 # Mac Download,direct
 PROCESS-NAME,aria2c,direct
 PROCESS-NAME,fdm,direct
