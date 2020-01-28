@@ -1,0 +1,26 @@
+# > Microsoft
+USER-AGENT,Microsoft*,microsoft
+HOST-KEYWORD,microsoft,microsoft
+HOST-SUFFIX,ms,microsoft
+HOST-SUFFIX,bing.com,microsoft
+HOST-SUFFIX,bing.net,microsoft
+HOST-SUFFIX,hotmail.com,microsoft
+HOST-SUFFIX,live.com,microsoft
+HOST-SUFFIX,live.net,microsoft
+HOST-SUFFIX,microsofttranslator.com,microsoft
+HOST-SUFFIX,msauth.net,microsoft
+HOST-SUFFIX,msecnd.net,microsoft
+HOST-SUFFIX,msocdn.com,microsoft
+HOST-SUFFIX,msedge.net,microsoft
+HOST-SUFFIX,msn.com,microsoft
+HOST-SUFFIX,office.com,microsoft
+HOST-SUFFIX,office.net,microsoft
+HOST-SUFFIX,office365.com,microsoft
+HOST-SUFFIX,onenote.com,microsoft 
+HOST-SUFFIX,onenote.net,microsoft
+HOST-SUFFIX,outlook.com,microsoft
+HOST-SUFFIX,visualstudio.com,microsoft
+HOST-SUFFIX,windows.com,microsoft
+HOST-SUFFIX,windows.net,microsoft
+HOST-SUFFIX,xbox.com,microsoft
+HOST-SUFFIX,xboxlive.com,microsoft
