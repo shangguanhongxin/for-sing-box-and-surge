@@ -1,0 +1,11 @@
+# > DAZN,jianada
+USER-AGENT,DAZN*,jianada
+DOMAIN-SUFFIX,dazn.com,jianada
+DOMAIN-SUFFIX,dazn-api.com,jianada
+DOMAIN,d151l6v8er5bdm.cloudfront.net,jianada
+DOMAIN-KEYWORD,voddazn,jianada
+
+# > Imkan,jianada
+DOMAIN-SUFFIX,imkan.tv,jianada
+DOMAIN,ds-vod-abematv.akamaized.net,jianada
+DOMAIN,linear-abematv.akamaized.net,jianada

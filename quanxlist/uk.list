@@ -1,0 +1,24 @@
+# > All4,english
+USER-AGENT,All4*,english
+DOMAIN-SUFFIX,c4assets.com,english
+DOMAIN-SUFFIX,channel4.com,english
+# > BBC iPlayer,english
+USER-AGENT,BBCiPlayer*,english
+DOMAIN-SUFFIX,bbc.co.uk,english
+DOMAIN-SUFFIX,bbci.co.uk,english
+DOMAIN-KEYWORD,bbcfmt,english
+DOMAIN-KEYWORD,uk-live,english
+# > ITV,english
+USER-AGENT,ITV_Player*,english
+DOMAIN-SUFFIX,itv.com,english
+DOMAIN-SUFFIX,itvstatic.com,english
+DOMAIN,itvpnpmobile-a.akamaihd.net,english
+# > My5,english
+USER-AGENT,My5*,english
+DOMAIN-SUFFIX,channel5.com,english
+DOMAIN-SUFFIX,my5.tv,english
+DOMAIN,d349g9zuie06uo.cloudfront.net,english
+# > Sky GO,english
+USER-AGENT,skygo*,english
+DOMAIN-SUFFIX,sky.com,english
+DOMAIN-SUFFIX,skygo.co.nz,english

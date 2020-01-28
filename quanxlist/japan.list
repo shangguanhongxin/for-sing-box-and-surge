@@ -1,0 +1,45 @@
+# > AbemaTV,japan
+USER-AGENT,AbemaTV*,japan
+DOMAIN-SUFFIX,abema.io,japan
+DOMAIN-SUFFIX,abema.tv,japan
+DOMAIN-SUFFIX,ameba.jp,japan
+DOMAIN-SUFFIX,hayabusa.io,japan
+DOMAIN-SUFFIX,akamaized.net,japan
+DOMAIN,abematv.akamaized.net,japan
+DOMAIN,ds-linear-abematv.akamaized.net,japan
+DOMAIN,ds-vod-abematv.akamaized.net,japan
+DOMAIN,linear-abematv.akamaized.net,japan
+
+
+# > Deezer,japan
+USER-AGENT,Deezer*,japan
+DOMAIN-SUFFIX,deezer.com,japan
+DOMAIN-SUFFIX,dzcdn.net,japan
+
+# > Hulu(フールー),japan
+DOMAIN-SUFFIX,happyon.jp,japan
+DOMAIN-SUFFIX,hulu.jp,japan
+
+# > niconico,japan
+USER-AGENT,Niconico*,japan
+DOMAIN-SUFFIX,dmc.nico,japan
+DOMAIN-SUFFIX,nicovideo.jp,japan
+DOMAIN-SUFFIX,nimg.jp,japan
+DOMAIN-SUFFIX,socdm.com,japan
+
+# > TikTok,japan
+USER-AGENT,TikTok*,japan
+DOMAIN-SUFFIX,muscdn.com,japan
+DOMAIN-SUFFIX,musical.ly,japan
+DOMAIN-SUFFIX,tiktokv.com,japan
+DOMAIN-SUFFIX,tiktokcdn.com,japan
+DOMAIN-KEYWORD,-tiktokcdn-com,japan
+
+# > Twitch,japan
+DOMAIN-SUFFIX,twitch.tv,japan
+DOMAIN-SUFFIX,twitchcdn.net,japan
+DOMAIN-SUFFIX,ttvnw.net,japan
+DOMAIN-SUFFIX,jtvnw.net,japan
+
+# > DMM,japan
+DOMAIN-SUFFIX,dmm.com,japan

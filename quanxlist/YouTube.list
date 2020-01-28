@@ -1,0 +1,9 @@
+# > YouTube,youtube
+USER-AGENT,com.google.ios.youtube*,youtube
+USER-AGENT,YouTube*,youtube
+DOMAIN-SUFFIX,googlevideo.com,youtube
+DOMAIN-SUFFIX,youtube.com,youtube
+DOMAIN,youtubei.googleapis.com,youtube
+# > YouTubeMusic,youtube
+USER-AGENT,com.google.ios.youtubemusic*,youtube
+USER-AGENT,YouTubeMusic*,youtube

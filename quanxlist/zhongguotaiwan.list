@@ -1,0 +1,33 @@
+# > Bahamut,zhongguotaiwan
+USER-AGENT,Anime*,zhongguotaiwan
+DOMAIN-SUFFIX,bahamut.com.tw,zhongguotaiwan
+DOMAIN-SUFFIX,gamer.com.tw,zhongguotaiwan
+DOMAIN,gamer-cds.cdn.hinet.net,zhongguotaiwan
+DOMAIN,gamer2-cds.cdn.hinet.net,zhongguotaiwan
+# > Fox+,zhongguotaiwan
+USER-AGENT,FOX%20NOW*,zhongguotaiwan
+DOMAIN-SUFFIX,fox.com,zhongguotaiwan
+DOMAIN-SUFFIX,foxdcg.com,zhongguotaiwan
+DOMAIN-SUFFIX,theplatform.com,zhongguotaiwan
+DOMAIN-SUFFIX,uplynk.com,zhongguotaiwan
+# > KKBOX,zhongguotaiwan
+DOMAIN-SUFFIX,kkbox.com,zhongguotaiwan
+DOMAIN-SUFFIX,kkbox.com.tw,zhongguotaiwan
+DOMAIN-SUFFIX,kfs.io,zhongguotaiwan
+# > LineTV,zhongguotaiwan
+USER-AGENT,LINE%20TV*,zhongguotaiwan
+DOMAIN-SUFFIX,linetv.tw,zhongguotaiwan
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,zhongguotaiwan
+# > LiTV,zhongguotaiwan
+DOMAIN-SUFFIX,litv.tv,zhongguotaiwan
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,zhongguotaiwan
+# > 台湾好,zhongguotaiwan
+USER-AGENT,TaiwanGood*,zhongguotaiwan
+DOMAIN-SUFFIX,skyking.com.tw,zhongguotaiwan
+DOMAIN,hamifans.emome.net,zhongguotaiwan
+# > KKTV,zhongguotaiwan
+USER-AGENT,KKTV*,zhongguotaiwan
+USER-AGENT,com.kktv.ios.kktv*,zhongguotaiwan
+DOMAIN-SUFFIX,kktv.com.tw,zhongguotaiwan
+DOMAIN-SUFFIX,kktv.me,zhongguotaiwan
+DOMAIN,kktv-theater.kk.stream,zhongguotaiwan

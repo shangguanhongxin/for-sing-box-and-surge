@@ -1,0 +1,10 @@
+# > NeteaseMusic,netfease
+USER-AGENT,NeteaseMusic*,netfease
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,netfease
+DOMAIN-SUFFIX,163.com,netfease
+DOMAIN-SUFFIX,126.net,netfease
+DOMAIN-SUFFIX,127.net,netfease
+DOMAIN-SUFFIX,163yun.com,netfease
+DOMAIN-SUFFIX,lofter.com,netfease
+DOMAIN-SUFFIX,netease.com,netfease
+DOMAIN-SUFFIX,ydstatic.com,netfease

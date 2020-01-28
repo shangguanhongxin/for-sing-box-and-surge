@@ -1,0 +1,46 @@
+# > ABC,usa
+DOMAIN-SUFFIX,edgedatg.com,usa
+DOMAIN-SUFFIX,go.com,usa
+# > Disney+,usa
+USER-AGENT,Disney+*,usa
+DOMAIN-SUFFIX,bamgrid.com,usa
+DOMAIN-SUFFIX,disney-plus.net,usa
+DOMAIN-SUFFIX,disneyplus.com,usa
+DOMAIN-SUFFIX,dssott.com,usa
+DOMAIN,cdn.registerdisney.go.com,usa
+# > HBO NOW,usa
+USER-AGENT,HBO%20NOW*,usa
+DOMAIN-SUFFIX,hbo.com,usa
+DOMAIN-SUFFIX,hbogo.com,usa
+DOMAIN-SUFFIX,hbonow.com,usa
+# > Hulu,usa
+DOMAIN-SUFFIX,hulu.com,usa
+DOMAIN-SUFFIX,huluim.com,usa
+DOMAIN-SUFFIX,hulustream.com,usa
+# > PBS,usa
+USER-AGENT,PBS*,usa
+DOMAIN-SUFFIX,pbs.org,usa
+# > Spotify,usa
+USER-AGENT,Spotify*,usa
+DOMAIN-SUFFIX,pscdn.co,usa
+DOMAIN-SUFFIX,scdn.co,usa
+DOMAIN-SUFFIX,spotify.com,usa
+DOMAIN-SUFFIX,spoti.fi,usa
+DOMAIN-KEYWORD,spotify.com,usa
+DOMAIN-KEYWORD,-spotify-com,usa
+# > Amazon Prime Video,usa
+USER-AGENT,InstantVideo.US*,usa
+USER-AGENT,Prime%20Video*,usa
+DOMAIN-SUFFIX,aiv-cdn.net,usa
+DOMAIN-SUFFIX,aiv-delivery.net,usa
+DOMAIN-SUFFIX,primevideo.com,usa
+DOMAIN,avodmp4s3ww-a.akamaihd.net,usa
+DOMAIN,d25xi40x97liuc.cloudfront.net,usa
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,usa
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,usa
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,usa
+DOMAIN-KEYWORD,avoddashs,usa
+# > CBS,usa
+DOMAIN-SUFFIX,cbs.com,usa
+DOMAIN-SUFFIX,cbsstatic.com,usa
+DOMAIN-SUFFIX,cbsig.net,usa

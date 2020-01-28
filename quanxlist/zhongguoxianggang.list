@@ -1,0 +1,70 @@
+# > encoreTVB,zhongguoxianggang
+USER-AGENT,encoreTVB*,zhongguoxianggang
+DOMAIN-SUFFIX,encoretvb.com,zhongguoxianggang
+DOMAIN,edge.api.brightcove.com,zhongguoxianggang
+DOMAIN,bcbolt446c5271-a.akamaihd.net,zhongguoxianggang
+# > HBO GO HKG,zhongguoxianggang
+USER-AGENT,HBO%20GO%20PROD%20HKG*,zhongguoxianggang
+DOMAIN-SUFFIX,hbogoasia.com,zhongguoxianggang
+DOMAIN-SUFFIX,hbogoasia.hk,zhongguoxianggang
+DOMAIN,bcbolthboa-a.akamaihd.net,zhongguoxianggang
+DOMAIN,players.brightcove.net,zhongguoxianggang
+DOMAIN,s3-ap-southeast-1.amazonaws.com,zhongguoxianggang
+DOMAIN,dai3fd1oh325y.cloudfront.net,zhongguoxianggang
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,zhongguoxianggang
+DOMAIN,hboasia1-i.akamaihd.net,zhongguoxianggang
+DOMAIN,hboasia2-i.akamaihd.net,zhongguoxianggang
+DOMAIN,hboasia3-i.akamaihd.net,zhongguoxianggang
+DOMAIN,hboasia4-i.akamaihd.net,zhongguoxianggang
+DOMAIN,hboasia5-i.akamaihd.net,zhongguoxianggang
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,zhongguoxianggang
+# > 华文电视,zhongguoxianggang
+USER-AGENT,HWTVMobile*,zhongguoxianggang
+DOMAIN-SUFFIX,5itv.tv,zhongguoxianggang
+DOMAIN-SUFFIX,ocnttv.com,zhongguoxianggang
+# > JOOX,zhongguoxianggang
+USER-AGENT,WeMusic*,zhongguoxianggang
+USER-AGENT,JOOX*,zhongguoxianggang
+DOMAIN-SUFFIX,joox.com,zhongguoxianggang
+# > myTV_SUPER,zhongguoxianggang
+USER-AGENT,mytv*,zhongguoxianggang
+DOMAIN-SUFFIX,mytvsuper.com,zhongguoxianggang
+DOMAIN-SUFFIX,tvb.com,zhongguoxianggang
+# > Pornhub,zhongguoxianggang
+DOMAIN-SUFFIX,phncdn.com,zhongguoxianggang
+DOMAIN-SUFFIX,pornhub.com,zhongguoxianggang
+DOMAIN-SUFFIX,pornhubpremium.com,zhongguoxianggang
+# > SoundCloud,zhongguoxianggang
+USER-AGENT,SoundCloud*,zhongguoxianggang
+DOMAIN-SUFFIX,p-cdn.us,zhongguoxianggang
+DOMAIN-SUFFIX,sndcdn.com,zhongguoxianggang
+DOMAIN-SUFFIX,soundcloud.com,zhongguoxianggang
+# > TIDAL,zhongguoxianggang
+USER-AGENT,TIDAL*dia,zhongguoxianggang
+DOMAIN-SUFFIX,tidal.comdia,zhongguoxianggang
+# > Viu(TV),zhongguoxianggang
+USER-AGENT,Viu*,zhongguoxianggang
+USER-AGENT,ViuTV*,zhongguoxianggang
+DOMAIN-SUFFIX,viu.com,zhongguoxianggang
+DOMAIN-SUFFIX,viu.tv,zhongguoxianggang
+DOMAIN,api.viu.now.com,zhongguoxianggang
+DOMAIN,d1k2us671qcoau.cloudfront.net,zhongguoxianggang
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,zhongguoxianggang
+DOMAIN,dfp6rglgjqszk.cloudfront.net,zhongguoxianggang
+# > Japonx,zhongguoxianggang
+DOMAIN-KEYWORD,japonx,zhongguoxianggang
+DOMAIN-KEYWORD,japronx,zhongguoxianggang
+DOMAIN-SUFFIX,japonx.com,zhongguoxianggang
+DOMAIN-SUFFIX,japonx.tv,zhongguoxianggang
+DOMAIN-SUFFIX,japonx.net,zhongguoxianggang
+DOMAIN-SUFFIX,japonx.vip,zhongguoxianggang
+DOMAIN-SUFFIX,japronx.com,zhongguoxianggang
+DOMAIN-SUFFIX,japronx.tv,zhongguoxianggang
+DOMAIN-SUFFIX,japronx.net,zhongguoxianggang
+DOMAIN-SUFFIX,japronx.vip,zhongguoxianggang
+# > Now E,zhongguoxianggang
+USER-AGENT,PCCW*,zhongguoxianggang
+DOMAIN-KEYWORD,nowe,zhongguoxianggang
+DOMAIN,bcbolthboa-a.akamaihd.net,zhongguoxianggang
+DOMAIN-SUFFIX,nowe.com,zhongguoxianggang
+DOMAIN-SUFFIX,youboranqs01.com,zhongguoxianggang
