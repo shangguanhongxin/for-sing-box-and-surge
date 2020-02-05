@@ -40,6 +40,7 @@ DOMAIN-KEYWORD,-spotify-com
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN,avodmp4s3ww-a.akamaihd.net
