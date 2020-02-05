@@ -33,6 +33,7 @@ USER-AGENT,InstantVideo.US*,usa
 USER-AGENT,Prime%20Video*,usa
 DOMAIN-SUFFIX,aiv-cdn.net,usa
 DOMAIN-SUFFIX,amazon.com,usa
+DOMAIN-SUFFIX,amazonvideo.com,usa
 DOMAIN-SUFFIX,aiv-delivery.net,usa
 DOMAIN-SUFFIX,primevideo.com,usa
 DOMAIN,avodmp4s3ww-a.akamaihd.net,usa
