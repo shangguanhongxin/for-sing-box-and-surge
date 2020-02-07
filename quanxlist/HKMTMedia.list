@@ -9,4 +9,11 @@ DOMAIN-SUFFIX,biliapi.net,bilibili
 DOMAIN-SUFFIX,bilibili.com,bilibili
 DOMAIN-SUFFIX,bilibili.tv,bilibili
 DOMAIN-SUFFIX,hdslb.com,bilibili
-
+USER-AGENT,*bili*,bilibili
+DOMAIN-KEYWORD,bilibili,bilibili
+DOMAIN-SUFFIX,acg.tv,bilibili
+DOMAIN-SUFFIX,b23.tv,bilibili
+DOMAIN-SUFFIX,biligame.com,bilibili
+DOMAIN-SUFFIX,biligame.net,bilibili
+DOMAIN-SUFFIX,bilivideo.com,bilibili
+DOMAIN-SUFFIX,im9.com,bilibili
