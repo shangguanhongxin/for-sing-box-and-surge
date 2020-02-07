@@ -389,19 +389,6 @@ DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,no-resolve
-USER-AGENT,*bili*
-DOMAIN-KEYWORD,bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
 USER-AGENT,QIYI*
 USER-AGENT,iQiYi*
 DOMAIN-KEYWORD,qiyi
