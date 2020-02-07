@@ -323,13 +323,7 @@ HOST-SUFFIX,xiami.net,DIRECT
 # > Baidu
 HOST-SUFFIX,baidubcr.com,DIRECT
 # > bilibili
-HOST-SUFFIX,acgvideo.com,DIRECT
-HOST-SUFFIX,biliapi.com,DIRECT
-HOST-SUFFIX,biliapi.net,DIRECT
-HOST-SUFFIX,bilibili.com,DIRECT
-HOST-SUFFIX,bilibili.tv,DIRECT
-HOST-SUFFIX,hdslb.com,DIRECT
-DOMAIN,blzddist1-a.akamaihd.net,DIRECT
+
 # > ByteDance
 HOST-SUFFIX,feiliao.com,DIRECT
 HOST-SUFFIX,iesdouyin.com,DIRECT
