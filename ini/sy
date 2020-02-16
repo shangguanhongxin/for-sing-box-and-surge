@@ -40,6 +40,6 @@ Proxy Group:
     type: select
     proxies:
       - REJECT
-
+Rule:
   - GEOIP,CN,DIRECT
   - MATCH,Final
