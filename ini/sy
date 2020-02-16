@@ -1,1 +1,45 @@
-c29ja3M6Ly9Pa0F4T1RJdU1UWTRMakV1TVRBeE9qYzRPVEU9IyVFNSVBRiVCMCVFNyVCRSVCRCVFOCVBRiU4RiVFNyVBOSVCQQo=
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: Rule
+log-level: info
+external-controller: 127.0.0.1:9090
+experimental:
+  ignore-resolve-fail: true
+cfw-bypass:
+  - qq.com
+Proxy:
+  - name: "寰羽诏空"
+    type: http
+    server: 127.0.0.1
+    port: "1081"
+Proxy Group:
+  - name: PROXY
+    type: select
+    proxies:
+      - "寰羽诏空"
+  - name: Final
+    type: select
+    proxies:
+      - PROXY
+      - DIRECT
+  - name: Apple
+    type: select
+    proxies:
+      - DIRECT
+      - PROXY
+  - name: GlobalMedia
+    type: select
+    proxies:
+      - PROXY
+  - name: HKMTMedia
+    type: select
+    proxies:
+      - DIRECT
+  - name: Hijacking
+    type: select
+    proxies:
+      - REJECT
+
+  - GEOIP,CN,DIRECT
+  - MATCH,Final
