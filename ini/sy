@@ -23,23 +23,7 @@ Proxy Group:
     proxies:
       - PROXY
       - DIRECT
-  - name: Apple
-    type: select
-    proxies:
-      - DIRECT
-      - PROXY
-  - name: GlobalMedia
-    type: select
-    proxies:
-      - PROXY
-  - name: HKMTMedia
-    type: select
-    proxies:
-      - DIRECT
-  - name: Hijacking
-    type: select
-    proxies:
-      - REJECT
+
 Rule:
   - GEOIP,CN,DIRECT
   - MATCH,Final
