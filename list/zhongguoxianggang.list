@@ -78,3 +78,13 @@ DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com
+# > YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
+
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
