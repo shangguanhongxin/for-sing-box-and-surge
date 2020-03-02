@@ -13,6 +13,7 @@ USER-AGENT,HBO%20NOW*,usa
 DOMAIN-SUFFIX,hbo.com,usa
 DOMAIN-SUFFIX,hbogo.com,usa
 DOMAIN-SUFFIX,hbonow.com,usa
+DOMAIN-SUFFIX,hbomax.com,usa
 # > Hulu,usa
 DOMAIN-SUFFIX,hulu.com,usa
 DOMAIN-SUFFIX,huluim.com,usa
