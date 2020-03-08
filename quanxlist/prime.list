@@ -1,0 +1,16 @@
+# > Amazon Prime Video,usa
+USER-AGENT,InstantVideo.US*,usa
+USER-AGENT,Prime%20Video*,usa
+DOMAIN-SUFFIX,aiv-cdn.net,usa
+DOMAIN-SUFFIX,amazon.com,usa
+DOMAIN-SUFFIX,media-amazon.com,usa
+DOMAIN-SUFFIX,amazonvideo.com,usa
+DOMAIN-SUFFIX,aiv-delivery.net,usa
+DOMAIN-SUFFIX,primevideo.com,usa
+DOMAIN,avodmp4s3ww-a.akamaihd.net,usa
+DOMAIN,d25xi40x97liuc.cloudfront.net,usa
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,usa
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,usa
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,usa
+DOMAIN-KEYWORD,avoddashs,usa
+DOMAIN-KEYWORD,amazon,usa
