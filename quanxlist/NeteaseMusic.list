@@ -1,10 +1,21 @@
-# > NeteaseMusic,netfease
-USER-AGENT,NeteaseMusic*,netfease
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,netfease
-DOMAIN-SUFFIX,163.com,netfease
-DOMAIN-SUFFIX,126.net,netfease
-DOMAIN-SUFFIX,127.net,netfease
-DOMAIN-SUFFIX,163yun.com,netfease
-DOMAIN-SUFFIX,lofter.com,netfease
-DOMAIN-SUFFIX,netease.com,netfease
-DOMAIN-SUFFIX,ydstatic.com,netfease
+# 网易云测试解锁
+- DOMAIN-SUFFIX,music.163.com,UnblockNeteaseMusic
+- DOMAIN-SUFFIX,api.iplay.163.com,UnblockNeteaseMusic
+- DOMAIN-SUFFIX,mam.netease.com,UnblockNeteaseMusic
+- DOMAIN-SUFFIX,hz.netease.com,UnblockNeteaseMusic
+- IP-CIDR,59.111.181.38/32,UnblockNeteaseMusic
+- IP-CIDR,59.111.181.60/32,UnblockNeteaseMusic
+- IP-CIDR,223.252.199.66/32,UnblockNeteaseMusic
+- IP-CIDR,223.252.199.67/32,UnblockNeteaseMusic
+- IP-CIDR,59.111.160.195/32,UnblockNeteaseMusic
+- IP-CIDR,59.111.160.197/32,UnblockNeteaseMusic
+- IP-CIDR,193.112.159.225/32,UnblockNeteaseMusic
+- IP-CIDR,39.105.63.80/32,UnblockNeteaseMusic
+- IP-CIDR,47.100.127.239/32,UnblockNeteaseMusic
+- IP-CIDR,118.24.63.156/32,UnblockNeteaseMusic
+- IP-CIDR,59.111.181.35/32,UnblockNeteaseMusic
+- IP-CIDR,115.236.118.33/32,UnblockNeteaseMusic
+- IP-CIDR,115.236.121.1/32,UnblockNeteaseMusic
+- IP-CIDR,112.13.122.1/32,UnblockNeteaseMusic
+- IP-CIDR,112.13.119.17/32,UnblockNeteaseMusic
+- IP-CIDR,103.126.92.132/32,UnblockNeteaseMusic
