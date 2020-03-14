@@ -549,6 +549,8 @@ HOST-SUFFIX,xiachufang.com,DIRECT
 HOST-SUFFIX,xinhuanet.com,DIRECT
 HOST-SUFFIX,yangkeduo.com,DIRECT
 HOST-SUFFIX,zhangzishi.cc,DIRECT
+HOST-SUFFIX,alipay.com,DIRECT
+HOST-SUFFIX,alipayobjects.com,DIRECT
 HOST-SUFFIX,zhuihd.com,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
