@@ -50,5 +50,5 @@ DOMAIN-SUFFIX,cbs.com,usa
 DOMAIN-SUFFIX,cbsstatic.com,usa
 DOMAIN-SUFFIX,cbsig.net,usa
 # paypal
-HOST-SUFFIX,alipay.com,usa
-HOST-SUFFIX,alipayobjects.com,usa
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
