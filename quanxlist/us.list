@@ -50,5 +50,5 @@ DOMAIN-SUFFIX,cbs.com,usa
 DOMAIN-SUFFIX,cbsstatic.com,usa
 DOMAIN-SUFFIX,cbsig.net,usa
 # paypal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypal.com,usa
+DOMAIN-SUFFIX,paypalobjects.com,usa
