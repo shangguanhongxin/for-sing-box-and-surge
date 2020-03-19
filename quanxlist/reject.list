@@ -10018,6 +10018,7 @@ URL-REGEX,https?://sax\w?.sina.com.cn,reject
 URL-REGEX,https?://server-\w+.imrworldwide.com,reject
 URL-REGEX,https?://t\d{2}.baidu.com,reject
 URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$,reject
+USER-AGENT,AVOS*,reject
 URL-REGEX,https://www.zhihu.com/api/v4/mcn/,reject
 URL-REGEX,https://api.zhihu.com/(ab|adx|xen|drama|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)),reject
 AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com)))),reject
