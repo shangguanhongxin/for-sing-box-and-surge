@@ -10019,8 +10019,10 @@ URL-REGEX,https?://sax\w?.sina.com.cn
 URL-REGEX,https?://server-\w+.imrworldwide.com
 URL-REGEX,https?://t\d{2}.baidu.com
 URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$
-URL-REGEX,https?://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
-# Advertising 广告（以及隐私追踪）
+USER-AGENT,AVOS*
+URL-REGEX,https://www.zhihu.com/api/v4/mcn/
+URL-REGEX,https://api.zhihu.com/(ab|adx|xen|drama|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
+AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
 # > General
 DOMAIN-SUFFIX,bjvvqu.cn
 DOMAIN-SUFFIX,hypers.com
