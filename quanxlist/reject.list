@@ -9984,34 +9984,6 @@ DOMAIN-SUFFIX,c-adash.m.taobao.com,reject
 DOMAIN-SUFFIX,g.koowo.com,reject
 DOMAIN-SUFFIX,kuaizip.com,reject
 DOMAIN-SUFFIX,m-adash.m.taobao.com,reject
-URL-REGEX,https?://(e|m).+/((uu|oo).php.+|\d+.x?html\?$),reject
-URL-REGEX,https?://[^(apple|10010)]+.(com|cn)\/(a|A)d(s|v)?(/|.js),reject
-URL-REGEX,https?://[^bbs].tianya\.cn,reject
-URL-REGEX,https?://\w.?up.qingdaonews.com,reject
-URL-REGEX,https?://\w{6}.com1.z0.glb.clouddn.com,reject
-URL-REGEX,https?://\w{8}.logic.cpm.cm.kankan.com,reject
-URL-REGEX,https?://\w+.cloudfront.net/banner,reject
-URL-REGEX,https?://\w+.gdt.qq.com,reject
-URL-REGEX,https?://\w+.kingsoft-office-service.com,reject
-URL-REGEX,https?://9377\w{2}.com,reject
-URL-REGEX,https?://a0b\w{2}.com,reject
-URL-REGEX,https?://(a?d|sax)\d.sina.com,reject
-URL-REGEX,https?://api\d.tuisong.baidu.com,reject
-URL-REGEX,https?://d\d.sinaimg.cn,reject
-URL-REGEX,https?://dl.app.gtja.com/.+\d+.jpg$,reject
-URL-REGEX,https?://impservice.+?youdao.com,reject
-URL-REGEX,https?://log.+?baidu.com,reject
-URL-REGEX,https?://notice.send-anywhere.com/banner,reject
-URL-REGEX,https?://sa\d.tuisong.baidu.com,reject
-URL-REGEX,https?://sax\w?.sina.cn,reject
-URL-REGEX,https?://sax\w?.sina.com.cn,reject
-URL-REGEX,https?://server-\w+.imrworldwide.com,reject
-URL-REGEX,https?://t\d{2}.baidu.com,reject
-URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$,reject
-USER-AGENT,AVOS*,reject
-URL-REGEX,https://www.zhihu.com/api/v4/mcn/,reject
-URL-REGEX,https://api.zhihu.com/(ab|adx|xen|drama|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)),reject
-AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com)))),reject
 # > General,reject
 DOMAIN-SUFFIX,bjvvqu.cn,reject
 DOMAIN-SUFFIX,hypers.com,reject
