@@ -9970,21 +9970,10 @@ DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,reject
 DOMAIN-SUFFIX,adserver-ad.321mh.com,reject
 DOMAIN-SUFFIX,lelefenxi.com,reject
 # Ads in Video apps,reject
-# > iqiyi & pps,reject
-URL-REGEX,https?://.+/videos/other/.+,reject
-URL-REGEX,https?://paopao\w?.qiyipic.com,reject
-# > Youku & Tudou,reject
-URL-REGEX,https?://.+.atm.youku.com,reject
 # > MGTV,reject
 # > Letv,reject
 # > Youtube,reject
-# > Sohu,reject
-# > PPTV,reject
-URL-REGEX,https?://img\w.g.pptv.com,reject
-# > Site,reject
-URL-REGEX,https?://h\w{2}.hxsame.hexun.com,reject
-# > Vod,reject
-# > Other,reject
+
 # REJECT,reject
 # > Client,reject
 DOMAIN-SUFFIX,adash.m.taobao.com,reject
