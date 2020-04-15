@@ -59,6 +59,8 @@ DOMAIN-KEYWORD,avoddashs
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,cbsig.net
-# paypal
+# > PayPal
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
