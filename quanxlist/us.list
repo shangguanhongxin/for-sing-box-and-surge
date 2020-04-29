@@ -52,3 +52,5 @@ DOMAIN-SUFFIX,cbsig.net,usa
 # paypal
 DOMAIN-SUFFIX,paypal.com,usa
 DOMAIN-SUFFIX,paypalobjects.com,usa
+# britbox
+DOMAIN-SUFFIX,britbox.com,usa
