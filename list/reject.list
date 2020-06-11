@@ -10021,10 +10021,16 @@ URL-REGEX,https?://sax\w?.sina.com.cn
 URL-REGEX,https?://server-\w+.imrworldwide.com
 URL-REGEX,https?://t\d{2}.baidu.com
 URL-REGEX,https?://www.bldimg.com/(background|splash)/.+.png$
-USER-AGENT,AVOS*
-URL-REGEX,https://www.zhihu.com/api/v4/mcn/
-URL-REGEX,https://api.zhihu.com/(ab|adx|xen|drama|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
-AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
+//SOME MCN INFO MAY BE USEFUL
+//URL-REGEX,https://www.zhihu.com/api/v4/mcn/,REJECT
+
+//DO NOT GET CDN-BASED IP
+DOMAIN,118.89.204.198,REJECT
+
+USER-AGENT,AVOS*,REJECT
+URL-REGEX,https://api.zhihu.com/(ad|drama|fringe|commercial|market/popover|search/(top|preset|tab)|.*featured-comment-ad),REJECT
+AND,((USER-AGENT,ZhihuHybrid*), (URL-REGEX,.*recommend)),REJECT
+
 # > General
 DOMAIN-SUFFIX,bjvvqu.cn
 DOMAIN-SUFFIX,hypers.com
