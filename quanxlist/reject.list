@@ -1,5 +1,5 @@
 # Update > 2019.12.13 Go advertising rule Integration lhie1 and shenji,reject
-DOMAIN-SUFFIX,adlog.tagtic.cn,reject
+HOST-SUFFIX,adlog.tagtic.cn,reject
 DOMAIN-SUFFIX,gdmf.apple.com,reject
 DOMAIN-SUFFIX,idealads.net,reject
 DOMAIN-SUFFIX,ironsrc.com,reject
