@@ -2,9 +2,9 @@
 URL-REGEX,https://app.bilibili.com/x/v2/(splash|search/(defaultword|square))
 URL-REGEX,https://api.bilibili.com/x/v2/dm/ad
 DOMAIN-SUFFIX,adlog.tagtic.cn
-DOMAIN-SUFFIX,http://sf3-ttcdn-tos.pstatp.com
-DOMAIN-SUFFIX,http://ad-static-xg.tagtic.cn
-DOMAIN-SUFFIX,http://sf1-ttcdn-tos.pstatp.com
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
+DOMAIN-SUFFIX,ad-static-xg.tagtic.cn
+DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,idealads.net
 DOMAIN-SUFFIX,ironsrc.com
