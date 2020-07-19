@@ -3,7 +3,6 @@ USER-AGENT,encoreTVB*
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN,edge.api.brightcove.com
 DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN-SUFFIX,tagtic.cn
 
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*
