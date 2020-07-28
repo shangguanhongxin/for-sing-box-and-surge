@@ -44,3 +44,16 @@ DOMAIN-SUFFIX,jtvnw.net
 # > DMM
 DOMAIN-SUFFIX,dmm.com
 
+
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+
+# > DAZN
+USER-AGENT,DAZN*
+DOMAIN-SUFFIX,dazn.com
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN-KEYWORD,voddazn
