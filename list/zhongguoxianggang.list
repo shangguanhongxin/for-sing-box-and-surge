@@ -35,12 +35,6 @@ USER-AGENT,mytv*
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-
 # > SoundCloud
 USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
