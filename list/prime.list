@@ -2,6 +2,7 @@
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
 DOMAIN-KEYWORD,avoddashs
+DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,primevideo.com
