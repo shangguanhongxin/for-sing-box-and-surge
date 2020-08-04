@@ -9,12 +9,14 @@ DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN,cdn.registerdisney.go.com
+DOMAIN,global.edge.bamgrid.com
 
 # > HBO NOW
 USER-AGENT,HBO%20NOW*
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 
 
