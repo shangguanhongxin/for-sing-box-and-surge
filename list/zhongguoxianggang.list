@@ -26,9 +26,10 @@ DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,ocnttv.com
 
 # > JOOX
-USER-AGENT,WeMusic*
 USER-AGENT,JOOX*
+USER-AGENT,WeMusic*
 DOMAIN-SUFFIX,joox.com
+DOMAIN-KEYWORD,jooxweb-api
 
 # > myTV_SUPER
 USER-AGENT,mytv*
