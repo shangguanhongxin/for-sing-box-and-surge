@@ -8810,13 +8810,7 @@ DOMAIN,pr.da.netease.com
 DOMAIN,rd.da.netease.com
 DOMAIN,wr.da.netease.com
 URL-REGEX,^http:\/\/p\d\.music\.126\.net\/\w+==\/\d+\.jpg$
-URL-REGEX,^http:\/\/iad.*mat\.[a-z]*\.12[67]\.net/\w+\.(jpg|mp4)$
-# > Zhihu
-DOMAIN,mqtt.zhihu.com
-URL-REGEX,https://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|me|.*launch|.*featured-comment-ad|search/(top|tabs|preset))
-URL-REGEX,https://api.zhihu.com.*(launch|recommendations)
-URL-REGEX,https://api.zhihu.com/search/(top|tabs|preset)
-URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
+URL-REGEX,^http:\/\/iad.*mat\.[a-z]*\.12[67]\.net/\w+\.(jpg|mp4)
 URL-REGEX,https?://(e|m).+/((uu|oo).php.+|\d+.x?html\?$)
 URL-REGEX,https?://[^(apple|10010)]+.(com|cn)\/(a|A)d(s|v)?(/|.js)
 URL-REGEX,https?://[^bbs].tianya\.cn
