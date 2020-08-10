@@ -20,6 +20,12 @@ http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://
 http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
 
 
+# > Redirect Google Service
+^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
+^https?:\/\/(www.)?google\.cn https:\/\/www.google.com 302
+
+
+
 
 [MITM]
-hostname = %APPEND% ios.prod.ftl.netflix.com,api.m.jd.com,%INSERT% *.wikipedia.org,*.wikiwand.com, amdc.m.taobao.com, trade-acs.m.taobao.com
+hostname = %APPEND% ios.prod.ftl.netflix.com,api.m.jd.com,%INSERT% *.wikipedia.org,*.wikiwand.com, amdc.m.taobao.com, trade-acs.m.taobao.com, *.google.cn
