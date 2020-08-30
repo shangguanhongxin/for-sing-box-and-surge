@@ -66,3 +66,5 @@ IP-CIDR6,2001:b28:f23d:f003::a/128,no-resolve
 # 嘿嘿
 DOMAIN-SUFFIX,avbebe.com
 DOMAIN-SUFFIX,v.avgigi.com
+# nex-emby
+DOMAIN-SUFFIX,emby.nexitally.com
