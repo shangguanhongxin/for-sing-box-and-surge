@@ -89,3 +89,10 @@ DOMAIN-SUFFIX,ytimg.com
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,ppp.contentdef.com
+DOMAIN-SUFFIX,portalcdn.com
