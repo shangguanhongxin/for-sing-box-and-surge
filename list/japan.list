@@ -45,11 +45,9 @@ DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,dmm.com
 
 
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+
+
+
 
 # > DAZN
 USER-AGENT,DAZN*
