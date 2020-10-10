@@ -39,10 +39,7 @@ bilibili view = type=http-response,requires-body=1,max-size=0,pattern=https://ap
 bilibili reply = type=http-response,requires-body=1,max-size=0,pattern=https://api.bilibili.com/x/v2/reply/main\?access_key,script-path=https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20bilibili%20reply.js
 bilibili live = type=http-response,requires-body=1,max-size=0,pattern=https://api.live.bilibili.com/xlive/app-room/v1/index/getInfoByRoom\?access_key,script-path=https://raw.githubusercontent.com/onewayticket255/Surge-Script/master/surge%20bilibili%20live.js
 
-#embypremiere
-emby-adr-vD.js = script-path=https://raw.githubusercontent.com/Co2333/embyUnlocked/master/Surge/emby-adr-vD.js,requires-body=1,max-size=0,type=http-response,pattern=^https://mb3admin.com/admin/service/registration/validateDevice
-emby-adr-v.js = script-path=https://raw.githubusercontent.com/Co2333/embyUnlocked/master/Surge/emby-adr-v.js,requires-body=1,max-size=0,type=http-response,pattern=^https://mb3admin.com/admin/service/registration/validate
-emby-adr-gS.js = script-path=https://raw.githubusercontent.com/Co2333/embyUnlocked/master/Surge/emby-adr-gS.js,requires-body=1,max-size=0,type=http-response,pattern=^https://mb3admin.com/admin/service/registration/getStatus
+#embypremiere.js = script-path=https://raw.githubusercontent.com/Co2333/embyUnlocked/master/Surge/emby-adr-gS.js,requires-body=1,max-size=0,type=http-response,pattern=^https://mb3admin.com/admin/service/registration/getStatus
 
 
 [MITM]
