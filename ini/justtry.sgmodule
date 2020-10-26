@@ -27,6 +27,12 @@ http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness
 http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
 http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
 
+# 动画疯 去广告
+Bahamut.js = requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bahamut.js,type=http-request,pattern=https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v3\/token\.php
+Bahamut.js = requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Bahamut.js,type=http-response,pattern=https:\/\/api\.gamer\.com\.tw\/mobile_app\/anime\/v3\/token\.php
+
+
+
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
 ^https?:\/\/(www.)?google\.cn https:\/\/www.google.com 302
@@ -41,4 +47,4 @@ http-response https://api.live.bilibili.com/xlive/app-room/v1/index/getInfoByRoo
 
 
 [MITM]
-hostname = %APPEND% ios.prod.ftl.netflix.com,api.m.jd.com,%INSERT% *.wikipedia.org,*.wikiwand.com, amdc.m.taobao.com, trade-acs.m.taobao.com, *.google.cn, %APPEND% api.bilibili.com, app.bilibili.com, api.live.bilibili.com, mb3admin.com
+hostname = %APPEND% ios.prod.ftl.netflix.com,api.m.jd.com, api.gamer.com.tw,%INSERT% *.wikipedia.org,*.wikiwand.com, amdc.m.taobao.com, trade-acs.m.taobao.com, *.google.cn, %APPEND% api.bilibili.com, app.bilibili.com, api.live.bilibili.com, mb3admin.com
