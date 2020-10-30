@@ -47,4 +47,4 @@ http-response https://api.live.bilibili.com/xlive/app-room/v1/index/getInfoByRoo
 
 
 [MITM]
-hostname = ios.prod.ftl.netflix.com,api.m.jd.com,api.gamer.com.tw,%INSERT% *.wikipedia.org,*.wikiwand.com,amdc.m.taobao.com,trade-acs.m.taobao.com,*.google.cn, %APPEND% api.bilibili.com, app.bilibili.com, api.live.bilibili.com, mb3admin.com
+hostname = ios.prod.ftl.netflix.com, api.m.jd.com, api.gamer.com.tw, %INSERT% *.wikipedia.org, *.wikiwand.com, amdc.m.taobao.com, trade-acs.m.taobao.com, *.google.cn, %APPEND% api.bilibili.com, app.bilibili.com, api.live.bilibili.com, mb3admin.com
