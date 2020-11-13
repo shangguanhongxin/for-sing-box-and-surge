@@ -556,5 +556,3 @@ DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,DIRECT
-# GeoIP China
-GEOIP,CN,DIRECT
