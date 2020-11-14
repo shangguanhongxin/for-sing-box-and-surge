@@ -1,0 +1,40 @@
+payload:
+# > > AbemaTV
+ - DOMAIN-SUFFIX,abema.io
+ - DOMAIN-SUFFIX,abema.tv
+ - DOMAIN-SUFFIX,ameba.jp
+ - DOMAIN-SUFFIX,hayabusa.io
+ - DOMAIN-SUFFIX,akamaized.net
+ - DOMAIN,abematv.akamaized.net
+ - DOMAIN,ds-linear-abematv.akamaized.net
+ - DOMAIN,ds-vod-abematv.akamaized.net
+ - DOMAIN,linear-abematv.akamaized.net
+# > > Deezer
+ - DOMAIN-SUFFIX,deezer.com
+ - DOMAIN-SUFFIX,dzcdn.net
+# > > Hulu(フールー)
+ - DOMAIN-SUFFIX,happyon.jp
+ - DOMAIN-SUFFIX,hulu.jp
+# > > niconico
+ - DOMAIN-SUFFIX,dmc.nico
+ - DOMAIN-SUFFIX,nicovideo.jp
+ - DOMAIN-SUFFIX,nimg.jp
+ - DOMAIN-SUFFIX,socdm.com
+# > > TikTok
+ - DOMAIN-SUFFIX,muscdn.com
+ - DOMAIN-SUFFIX,musical.ly
+ - DOMAIN-SUFFIX,tiktokv.com
+ - DOMAIN-SUFFIX,tiktokcdn.com
+ - DOMAIN-KEYWORD,-tiktokcdn-com
+# > > Twitch
+ - DOMAIN-SUFFIX,twitch.tv
+ - DOMAIN-SUFFIX,twitchcdn.net
+ - DOMAIN-SUFFIX,ttvnw.net
+ - DOMAIN-SUFFIX,jtvnw.net
+# > > DMM
+ - DOMAIN-SUFFIX,dmm.com
+# > > DAZN
+ - DOMAIN-SUFFIX,dazn.com
+ - DOMAIN-SUFFIX,dazn-api.com
+ - DOMAIN,d151l6v8er5bdm.cloudfront.net
+ - DOMAIN-KEYWORD,voddazn
