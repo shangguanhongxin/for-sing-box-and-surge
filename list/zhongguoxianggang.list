@@ -75,8 +75,9 @@ DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youboranqs01.com
 
-# > Youtube
+# > YouTube
 USER-AGENT,*youtube*
+USER-AGENT,com.google.ios.youtube*
 USER-AGENT,YouTube*
 DOMAIN-KEYWORD,youtube
 DOMAIN,yt3.ggpht.com
@@ -85,6 +86,9 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN,youtubei.googleapis.com
+
 
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
