@@ -5,12 +5,15 @@ DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 
-# > Fox+
-USER-AGENT,FOX%20NOW*
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,uplynk.com
+# > FOX+
+DOMAIN-SUFFIX,foxplus.com
+# DOMAIN-SUFFIX,theplatform.com
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
 
 # > KKBOX
 DOMAIN-SUFFIX,kkbox.com
