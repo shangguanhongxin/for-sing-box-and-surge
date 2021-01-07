@@ -1,21 +1,21 @@
-DOMAIN-SUFFIX,gcloud.qq.com // Added for webpage: qosidc.gcloud.qq.com:8011
-DOMAIN,tools.tmga.qq.com // Added for webpage: tools.tmga.qq.com:17005
-DOMAIN-SUFFIX,cn.voice.gcloudcs.com // Added for webpage: cn.voice.gcloudcs.com:10001
-IP-CIDR,101.89.15.229/32,no-resolve // Added for webpage: 101.89.15.229:443
-IP-CIDR,101.89.39.203/32,no-resolve // Added for webpage: 101.89.39.203:12515 (Port Map)
-IP-CIDR,180.97.76.8/32,no-resolve // Added for webpage: 180.97.76.8:19003 (Port Map)
-IP-CIDR,101.89.15.230/32,no-resolve // Added for webpage: 101.89.15.230:443
-IP-CIDR,183.61.49.155/32,no-resolve // Added for webpage: 183.61.49.155:8081
+DOMAIN-SUFFIX,gcloud.qq.com
+DOMAIN,tools.tmga.qq.com
+DOMAIN-SUFFIX,cn.voice.gcloudcs.com
+IP-CIDR,101.89.15.229/32,no-resolve
+IP-CIDR,101.89.39.203/32,no-resolve
+IP-CIDR,180.97.76.8/32,no-resolve
+IP-CIDR,101.89.15.230/32,no-resolve
+IP-CIDR,183.61.49.155/32,no-resolve
 USER-AGENT,smoba/0013 CFNetwork/1209 Darwin/20.2.0
-IP-CIDR,81.69.188.27/32,no-resolve // Added for webpage: 81.69.188.27:1883
-IP-CIDR,222.186.183.228/32,no-resolve // Added for webpage: 222.186.183.228:80 (http://222.186.183.228/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b5172ddc8c3&f=0c68&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1)
-IP-CIDR,122.225.36.9/32,no-resolve // Added for webpage: 122.225.36.9:80 (http://122.225.36.9/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b5172ddc8c3&f=0f9e&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1)
-IP-CIDR,218.92.231.107/32,no-resolve // Added for webpage: 218.92.231.107:49155 (http://218.92.231.107/down-update.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b51be82e0fc&f=be82c609&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=0&arrive_key=1517906172488)
-IP-CIDR,222.186.183.215/32,no-resolve // Added for webpage: 222.186.183.215:80 (http://222.186.183.215/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b5172ddc8c3&f=9943&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1)
-IP-CIDR,183.3.235.141/32,no-resolve // Added for webpage: 183.3.235.141:8081
-IP-CIDR,58.216.6.63/32,no-resolve // Added for webpage: 58.216.6.63:80 (http://58.216.6.63/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b5e72ddc8c3&f=0f1e&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1)
-IP-CIDR,58.220.48.236/32,no-resolve // Added for webpage: 58.220.48.236:80 (http://58.220.48.236/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b5e72ddc8c3&f=90e0&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1)
-IP-CIDR,49.83.53.133/32,no-resolve // Added for webpage: 49.83.53.133:49155 (http://49.83.53.133/down-update.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b598b82e0fc&f=8b82c609&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1&arrive_key=163840074872)
-IP-CIDR,180.126.78.143/32,no-resolve // Added for webpage: 180.126.78.143:49155 (http://180.126.78.143/down-update.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b59621f10fc&f=621f3609&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1&arrive_key=32916838144)
-IP-CIDR,115.215.180.122/32,no-resolve // Added for webpage: 115.215.180.122:49155 (http://115.215.180.122/down-update.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58b80be82e0fc&f=be82c609&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=1&arrive_key=1062364451603)
-IP-CIDR,58.216.102.186/32,no-resolve // Added for webpage: 58.216.102.186:80 (http://58.216.102.186/update1.dlied.qq.com/sgame/1212338883/2400280/res/1.61.1.56/1212338883_2400280_1.61.1.56_20210105201643_1760106653_subpatch?mkey=5ff58bc372ddc8c3&f=580c&cip=114.221.238.54&proto=http&access_type=Wifi&range_index=2)
+IP-CIDR,81.69.188.27/32,no-resolve
+IP-CIDR,222.186.183.228/32,no-resolve
+IP-CIDR,122.225.36.9/32,no-resolve
+IP-CIDR,218.92.231.107/32,no-resolve
+IP-CIDR,222.186.183.215/32,no-resolve
+IP-CIDR,183.3.235.141/32,no-resolve
+IP-CIDR,58.216.6.63/32,no-resolve
+IP-CIDR,58.220.48.236/32,no-resolve
+IP-CIDR,49.83.53.133/32,no-resolve
+IP-CIDR,180.126.78.143/32,no-resolve
+IP-CIDR,115.215.180.122/32,no-resolve
+IP-CIDR,58.216.102.186/32,no-resolve
