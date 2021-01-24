@@ -553,3 +553,8 @@ DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
+# 查漏补缺
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN,www.surge-activation.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,ip.sb
