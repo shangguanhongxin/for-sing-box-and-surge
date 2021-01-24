@@ -19,3 +19,6 @@ IP-CIDR,49.83.53.133/32,no-resolve
 IP-CIDR,180.126.78.143/32,no-resolve
 IP-CIDR,115.215.180.122/32,no-resolve
 IP-CIDR,58.216.102.186/32,no-resolve
+IP-CIDR,101.89.17.208/32,no-resolve
+DOMAIN-SUFFIX,zhaishuyuan.com
+DOMAIN-SUFFIX,e-sscard.com
