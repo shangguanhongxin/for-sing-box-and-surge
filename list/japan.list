@@ -55,3 +55,7 @@ DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN,d151l6v8er5bdm.cloudfront.net
 DOMAIN-KEYWORD,voddazn
+
+
+# 查漏补缺
+DOMAIN-SUFFIX,ev-h.phprcdn.com
