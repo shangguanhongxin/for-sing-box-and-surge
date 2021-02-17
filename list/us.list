@@ -84,4 +84,4 @@ DOMAIN-SUFFIX,v.avgigi.com
 DOMAIN-SUFFIX,emby.nexitally.com
 # 查漏补缺
 DOMAIN-SUFFIX,crunchyroll.com
-USER-AGENT,Crunchyroll/1832556.306266127 CFNetwork/1209 Darwin/20.2.0
+USER-AGENT,Crunchyroll*
