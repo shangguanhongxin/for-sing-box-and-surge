@@ -560,3 +560,7 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,sublink.dev
+IP-CIDR,8.8.8.8/32,Proxy,no-resolve
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,sexinsex.net
+DOMAIN-SUFFIX,sis001.com
