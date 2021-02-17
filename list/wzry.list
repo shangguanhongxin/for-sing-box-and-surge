@@ -6,7 +6,7 @@ IP-CIDR,101.89.39.203/32,no-resolve
 IP-CIDR,180.97.76.8/32,no-resolve
 IP-CIDR,101.89.15.230/32,no-resolve
 IP-CIDR,183.61.49.155/32,no-resolve
-USER-AGENT,smoba/0013 CFNetwork/1209 Darwin/20.2.0
+USER-AGENT,smoba*
 IP-CIDR,81.69.188.27/32,no-resolve
 IP-CIDR,222.186.183.228/32,no-resolve
 IP-CIDR,122.225.36.9/32,no-resolve
