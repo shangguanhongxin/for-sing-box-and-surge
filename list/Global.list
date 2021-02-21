@@ -562,6 +562,7 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,sublink.dev
 DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sis001.com
+IP-CIDR,162.252.9.15/32,no-resolve
 # CLOUDFLARE
 DOMAIN-SUFFIX,cloudflare.com
 IP-CIDR,103.21.244.0/22,no-resolve
