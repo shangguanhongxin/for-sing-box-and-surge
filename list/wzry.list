@@ -22,3 +22,14 @@ IP-CIDR,58.216.102.186/32,no-resolve
 IP-CIDR,101.89.17.208/32,no-resolve
 DOMAIN-SUFFIX,zhaishuyuan.com
 DOMAIN-SUFFIX,e-sscard.com
+IP-CIDR,220.196.144.103/32,no-resolve
+IP-CIDR,218.68.88.252/32 ,no-resolve
+IP-CIDR,220.196.144.103/32 ,no-resolve
+IP-CIDR,218.68.88.143/32,no-resolve
+DOMAIN-SUFFIX,tmga.qq.com
+IP-CIDR,101.91.28.103/32 ,no-resolve
+IP-CIDR,101.91.28.104/32 ,no-resolve
+IP-CIDR,101.89.39.204/32 ,no-resolve
+IP-CIDR,101.89.39.120/32 ,no-resolve
+DOMAIN-SUFFIX,live.qcloud.com
+DOMAIN-SUFFIX,cdn.cn.gcloudcs.com
