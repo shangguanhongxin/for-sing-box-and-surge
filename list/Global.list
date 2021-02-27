@@ -589,6 +589,3 @@ IP-CIDR6,2606:4700::/32,no-resolve
 IP-CIDR6,2803:f800::/32,no-resolve
 IP-CIDR6,2a06:98c0::/29,no-resolve
 IP-CIDR6,2c0f:f248::/32,no-resolve
-DOMAIN-SUFFIX,loli.net
-DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,cdn.sb
