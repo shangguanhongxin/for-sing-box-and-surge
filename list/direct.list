@@ -68,10 +68,6 @@ DOMAIN-SUFFIX,gameloft.com
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
-# > iQiyi
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,71.am.com
 # > JD
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.hk
@@ -101,21 +97,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
-# > Microsoft
-DOMAIN-SUFFIX,azure.cn
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
 # > Sina
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
@@ -437,7 +418,6 @@ PROCESS-NAME,WebTorrent Helper
 #URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 # 自选
 DOMAIN-SUFFIX,hbooker.com
-# USER-AGENT,%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99/176 CFNetwork/1209 Darwin/20.2.0
 USER-AGENT,%E7%88%B1%E9%98%85%E4%B9%A6%E9%A6%99/*
 DOMAIN-SUFFIX,ipip.net
 USER-AGENT,*爱阅书香*
