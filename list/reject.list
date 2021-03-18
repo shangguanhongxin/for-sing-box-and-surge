@@ -186,7 +186,7 @@ DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
-DOMAIN-SUFFIX,tagtic.cn
+DOMAIN-SUFFIX,adlog.tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.com
@@ -9225,5 +9225,4 @@ DOMAIN-SUFFIX,adbs.ximalaya.com
 #知乎
 IP-CIDR,188.89.204.198/32,no-resolve
 #个人遮蔽
-DOMAIN-SUFFIX,tagic.cn
 DOMAIN-SUFFIX,wwads.cn
