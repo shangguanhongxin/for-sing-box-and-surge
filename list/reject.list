@@ -9227,3 +9227,5 @@ DOMAIN-SUFFIX,adbs.ximalaya.com
 IP-CIDR,188.89.204.198/32,no-resolve
 #个人遮蔽
 DOMAIN-SUFFIX,wwads.cn
+DOMAIN,book.9e20h.com
+DOMAIN-SUFFIX,umeng.com
