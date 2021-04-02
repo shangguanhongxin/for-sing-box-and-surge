@@ -33,3 +33,9 @@ IP-CIDR,101.89.39.204/32 ,no-resolve
 IP-CIDR,101.89.39.120/32 ,no-resolve
 DOMAIN-SUFFIX,live.qcloud.com
 DOMAIN-SUFFIX,cdn.cn.gcloudcs.com
+IP-CIDR,101.91.18.113/32,no-resolve
+IP-CIDR,114.222.112.110/32,no-resolve
+IP-CIDR,101.91.37.18/32,no-resolve
+IP-CIDR,101.91.37.28/32,no-resolve
+IP-CIDR,119.84.156.64/32,no-resolve
+IP-CIDR,101.91.5.172/32,no-resolve
