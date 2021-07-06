@@ -567,6 +567,10 @@ DOMAIN-SUFFIX,sexinsex.net
 DOMAIN-SUFFIX,sis001.com
 IP-CIDR,162.252.9.15/32,no-resolve
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,ev-h.phprcdn.com
+DOMAIN-SUFFIX,ev-h.phncdn.com
+
+
 # CLOUDFLARE
 DOMAIN-SUFFIX,cloudflare.com
 IP-CIDR,103.21.244.0/22,no-resolve
