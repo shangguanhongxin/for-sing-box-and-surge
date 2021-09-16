@@ -569,7 +569,7 @@ IP-CIDR,162.252.9.15/32,no-resolve
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,ev-h.phprcdn.com
 DOMAIN-SUFFIX,ev-h.phncdn.com
-
+DOMAIN-SUFFIX,85tube.com
 
 # CLOUDFLARE
 DOMAIN-SUFFIX,cloudflare.com
