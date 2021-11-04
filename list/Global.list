@@ -571,6 +571,9 @@ DOMAIN-SUFFIX,ev-h.phprcdn.com
 DOMAIN-SUFFIX,ev-h.phncdn.com
 DOMAIN-SUFFIX,85tube.com
 DOMAIN-KEYWORD,hentai
+DOMAIN-SUFFIX,redgifs.com
+DOMAIN-SUFFIX,redd.it
+
 # CLOUDFLARE
 DOMAIN-SUFFIX,cloudflare.com
 IP-CIDR,103.21.244.0/22,no-resolve
