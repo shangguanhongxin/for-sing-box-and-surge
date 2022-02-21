@@ -174,3 +174,4 @@ USER-AGENT,locationd*
 USER-AGENT,Maps*
 USER-AGENT,Music*
 USER-AGENT,TestFlight*
+DOMAIN-SUFFIX, gateway.icloud.com
