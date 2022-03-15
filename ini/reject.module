@@ -1,0 +1,28 @@
+#!name=reject规则
+#!desc=
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/shangguanhongxin/for-surge/master/ini/club-reject.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising.list,REJECT
+
+DOMAIN-SET,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Advertising/Advertising_Domain.list,REJECT
+DOMAIN-SUFFIX,overseas.weico.cc,REJECT
+
+DOMAIN-SUFFIX,umsns.com,REJECT
+
+# https://www.v2ex.com/t/730727
+# eg: https://static.zhihu.com/heifetz/main.signflow.8981b23e28b3de684698.js
+
+# https://www.v2ex.com/t/784612
+# eg: https://static.zhihu.com/heifetz/column.signflow.288f3addd8e584a7bca6.js
+URL-REGEX, ^https://static\.zhihu\.com/[^/]+/(main|column)\.signflow\.[^.]+.js, REJECT
+URL-REGEX, ^https?://iadmusicmat.music.126.net/.+.jpg,reject
+URL-REGEX, ^http://interface.music.163.com/eapi/ad/config/get,reject
+URL-REGEX, ^https?://m.ads.8le8le.com/adShow,reject
+URL-REGEX, ^https://*.music.126.net/*.jpeg,reject
+
+
+URL-REGEX,^https:\/\/*\.music\.126\.net\/obj\/*\.jpeg$,REJECT 
+
+[MITM]
+hostname = %APPEND% static.zhihu.com,m.ads.8le8le.com,iadmusicmat.music.com,*.music.126.net
