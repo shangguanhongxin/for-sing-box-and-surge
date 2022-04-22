@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,umsns.com,REJECT
 # https://www.v2ex.com/t/784612
 # eg: https://static.zhihu.com/heifetz/column.signflow.288f3addd8e584a7bca6.js
 # URL-REGEX, ^https://static\.zhihu\.com/[^/]+/(main|column)\.signflow\.[^.]+.js, REJECT
-URL-REGEX,^https?:\/\/static\.zhihu\.com\/[^\/]+\/main\.shared+[^.]+.js,REJECT
+URL-REGEX,^https?:\/\/static\.zhihu\.com\/[^\/]+\/main\.shared[^/]+.js,REJECT
 URL-REGEX,^https?:\/\/static\.zhihu\.com\/[^\/]+\/(main|column)\.signflow\.[^.]+.js,REJECT
 
 URL-REGEX, ^https?://iadmusicmat.music.126.net/.+.jpg,reject
