@@ -1,7 +1,7 @@
 #!name=自用梳理
 #!desc=试验
 
-[URL Rewrite]
+[Rule]
 URL-REGEX,^http:\/\/(www.)?sis001\.com,reject
 
 [URL Rewrite]
