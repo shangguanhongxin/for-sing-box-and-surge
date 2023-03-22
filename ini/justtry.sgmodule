@@ -2,7 +2,7 @@
 #!desc=试验
 
 [URL Rewrite]
-url+^http:\/\/(www.)?sis001\.com - reject
+URL-REGEX,^http:\/\/(www.)?sis001\.com,reject
 
 [URL Rewrite]
 
@@ -48,4 +48,4 @@ url+^http:\/\/(www.)?sis001\.com - reject
 ^https?://www.google.(com|cn)/search.*?q=sof\+ https://www.google.com.hk/search?num=100&q=site:stackoverflow.com+ 302
 
 [MITM]
-hostname = %APPEND% *.google.com,*.google.cn,*.g.cn
+hostname = %APPEND% *.google.com,*.google.cn,*.g.cn,*.sis001.com
