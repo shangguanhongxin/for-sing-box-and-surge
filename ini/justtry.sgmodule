@@ -8,18 +8,18 @@
 
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
-^http:\/\/sis\.xxx https:\/\/sis.xxx 302
+^http:\/\/sis.xxx https:\/\/sis.xxx 302
 ^https?:\/\/(www.)?google\.cn https:\/\/www.google.com 302
-^http:\/\/sis001\.com https:\/\/sis001.com 302
+^http:\/\/sis001.com https:\/\/sis001.com 302
 
 # macOS only (com 提前匹配，以免跳转到 shortcuts)
-^https?://www.google.com/search.*?q=bl\+ https://search.bilibili.com/all?keyword= 302
-^https?://www.google.com/search.*?q=ytb\+ https://youtube.com/results?search_query= 302
+^https?:\/\/www.google.com/search.*?q=bl\+ https://search.bilibili.com/all?keyword= 302
+^https?:\/\/www.google.com/search.*?q=ytb\+ https://youtube.com/results?search_query= 302
 
 # JSON Shortcuts
-^https?://www.google.(com|cn)/search.*?q=mis\+ shortcuts://run-shortcut?name=MI6&input=text&text= 302
-^https?://www.google.(com|cn)/search.*?q=stu\+ shortcuts://run-shortcut?name=stu&input=text&text= 302
-^https?://www.google.(com|cn)/search.*?q=flo\+ shortcuts://run-shortcut?name=楼层信息&input=text&text= 302
+^https?:\/\/www.google.(com|cn)/search.*?q=mis\+ shortcuts://run-shortcut?name=MI6&input=text&text= 302
+^https?:\/\/www.google.(com|cn)/search.*?q=stu\+ shortcuts://run-shortcut?name=stu&input=text&text= 302
+^https?:\/\/www.google.(com|cn)/search.*?q=flo\+ shortcuts://run-shortcut?name=楼层信息&input=text&text= 302
 
 # URL Rewrite Shortcuts
 ^https?://www.google.(com|cn)/search.*?q=zh\+ shortcuts://x-callback-url/run-shortcut?name=URL%20Rewrite&input=text&text=zh, 302
@@ -47,3 +47,6 @@
 ^https?://www.google.(com|cn)/search.*?q=sof\+ https://www.google.com.hk/search?num=100&q=site:stackoverflow.com+ 302
 ^https?://www.google.(com|cn)/search.*?q= https://www.google.com.hk/search?num=100&safe=off&q=-baidu+-huawei+-tencent+-csdn+-aliyun+-cnblogs+ 302
 ^https?://(www|m).baidu.com/.*?(wd|word)=(.*?) https://www.google.com.hk/search?num=100&safe=off&q=-baidu+-huawei+-tencent+-csdn+-aliyun+-cnblogs+$3 302
+
+[MITM]
+hostname = %APPEND% *.google.com,*.google.cn,*.g.cn
