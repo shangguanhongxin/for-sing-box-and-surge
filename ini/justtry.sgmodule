@@ -1,8 +1,8 @@
 #!name=自用梳理
 #!desc=试验
 
-
-
+[URL Rewrite]
+url+^http:\/\/(www.)?sis001\.com - reject
 
 [URL Rewrite]
 
@@ -46,8 +46,6 @@
 ^https?://www.google.(com|cn)/search.*?q=ssp\+ https://www.google.com.hk/search?num=100&q=site:sspai.com+ 302
 ^https?://www.google.(com|cn)/search.*?q=smz\+ https://www.google.com.hk/search?num=100&q=site:smzdm.com+ 302
 ^https?://www.google.(com|cn)/search.*?q=sof\+ https://www.google.com.hk/search?num=100&q=site:stackoverflow.com+ 302
-^https?://www.google.(com|cn)/search.*?q= https://www.google.com.hk/search?num=100&safe=off&q=-baidu+-huawei+-tencent+-csdn+-aliyun+-cnblogs+ 302
-^https?://(www|m).baidu.com/.*?(wd|word)=(.*?) https://www.google.com.hk/search?num=100&safe=off&q=-baidu+-huawei+-tencent+-csdn+-aliyun+-cnblogs+$3 302
 
 [MITM]
 hostname = %APPEND% *.google.com,*.google.cn,*.g.cn
