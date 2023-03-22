@@ -8,9 +8,9 @@
 
 # > Redirect Google Service
 ^https?:\/\/(www.)?g\.cn https:\/\/www.google.com 302
-^http:\/\/sis.xxx https:\/\/sis.xxx 302
+^http:\/\/sis\.xxx https:\/\/sis.xxx 302
 ^https?:\/\/(www.)?google\.cn https:\/\/www.google.com 302
-^http:\/\/sis001.com https:\/\/sis001.com 302
+^http:\/\/(www.)?sis001\.com https:\/\/www.sis001.com 302
 
 # macOS only (com 提前匹配，以免跳转到 shortcuts)
 ^https?:\/\/www.google.com/search.*?q=bl\+ https://search.bilibili.com/all?keyword= 302
