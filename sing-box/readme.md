@@ -2,8 +2,9 @@
 
 使用示例：
 
-{
-"route": {
+
+{"route":
+    {
     "auto_detect_interface": true,
     "final": "proxy",
     "rules": [    
