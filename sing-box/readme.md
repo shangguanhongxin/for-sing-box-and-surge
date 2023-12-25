@@ -6,6 +6,7 @@
     "auto_detect_interface": true,
     "final": "proxy",
     "rules": [
+    
       {
         "rule_set": "geosite-cn",
         "outbound": "direct"
