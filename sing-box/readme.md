@@ -2,11 +2,11 @@
 
 使用示例：
 
+{
 "route": {
     "auto_detect_interface": true,
     "final": "proxy",
-    "rules": [
-    
+    "rules": [    
       {
         "rule_set": "geosite-cn",
         "outbound": "direct"
