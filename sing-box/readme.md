@@ -4,10 +4,9 @@
 
 
 {
-
 "route":
+
 {    
- 
     "auto_detect_interface": true,
     "final": "proxy",
     "rules": [    
