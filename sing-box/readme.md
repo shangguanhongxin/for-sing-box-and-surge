@@ -34,4 +34,4 @@
         "download_detour": "proxy"
       }
     ]
-  },
+  }
