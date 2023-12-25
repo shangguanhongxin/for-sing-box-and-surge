@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "jiuse.cloud",
+                "91porny.com"
+            ],
+            "domain_suffix": [
+                ".jiuse.cloud",
+                ".91porny.com"
+            ]
+        }
+    ]
+}
