@@ -1,0 +1,1 @@
+sing-box1.8支持了规则集，出于个人使用习惯，将blackmatrix7的surge规则转制为了sing-box支持的无头规则，未经过测试，效果未知
