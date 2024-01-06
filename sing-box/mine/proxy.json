@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "jiuse.cloud",
+                "91porny.com",
+		"catbox.moe"
+
+            ],
+            "domain_suffix": [
+                ".jiuse.cloud",
+                ".91porny.com",
+		".catbox.moe"
+            ]
+        }
+    ]
+}
