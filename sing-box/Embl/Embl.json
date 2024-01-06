@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["ebi.ac.uk", "embl-hamburg.de", "embl.de", "embl.fr", "embl.it", "embl.org", "emblstatic.net"],"domain_suffix":[".ebi.ac.uk", ".embl-hamburg.de", ".embl.de", ".embl.fr", ".embl.it", ".embl.org", ".emblstatic.net"],"ip_cidr":[]}]}

@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["cinemax.com", "hbomax.com", "hbomaxcdn.com", "hbomaxdash.s.llnwi.net", "hbonow.com", "maxgo.com"],"domain_suffix":[".cinemax.com", ".hbomax.com", ".hbomaxcdn.com", ".hbomaxdash.s.llnwi.net", ".hbonow.com", ".maxgo.com"],"ip_cidr":[]}]}

@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["mail.icloud.com.cn", "mail.me.com"],"domain_suffix":[".mail.icloud.com.cn", ".mail.me.com"],"ip_cidr":[]}]}

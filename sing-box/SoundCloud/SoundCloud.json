@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["p-cdn.us", "sndcdn.com", "soundcloud.com"],"domain_suffix":[".p-cdn.us", ".sndcdn.com", ".soundcloud.com"],"ip_cidr":[]}]}

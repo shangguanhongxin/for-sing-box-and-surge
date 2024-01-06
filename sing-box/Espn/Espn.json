@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["espn.api.edge.bamgrid.com", "espn.hb.omtrdc.net", "espndotcom.tt.omtrdc.net", "dtci.co", "dtci.technology", "espn.co.uk", "espn.com", "espn.net", "espncdn.com", "espnqa.com", "watchespn.com"],"domain_suffix":[".dtci.co", ".dtci.technology", ".espn.co.uk", ".espn.com", ".espn.net", ".espncdn.com", ".espnqa.com", ".watchespn.com"],"ip_cidr":[]}]}

@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["gitbook.com", "gitbook.io", "gitbook.zendesk.com"],"domain_suffix":[".gitbook.com", ".gitbook.io", ".gitbook.zendesk.com"],"ip_cidr":[]}]}
