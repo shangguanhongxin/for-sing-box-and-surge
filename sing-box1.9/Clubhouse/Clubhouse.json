@@ -1,0 +1,1 @@
+{"version": 1,"rules": [{"domain":["clubhouse.pubnub.com", "clubhouseprod.s3.amazonaws.com"],"domain_suffix":["clubhouse.com", "clubhouseapi.com", "joinclubhouse.com"],"ip_cidr":[]}]}
