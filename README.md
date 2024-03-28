@@ -1,6 +1,6 @@
-sing-box文件夹中的规则为1.8制作的
+sing-box文件夹中的规则为sing-box1.8制作
 
-sing-box1.9文件夹的规则适配了1.9新的domain_suffix规则
+sing-box1.9文件夹的规则适配了sing-box1.9新的domain_suffix规则
 
 官方介绍如下：
 
